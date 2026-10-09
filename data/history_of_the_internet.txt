@@ -1,0 +1,34 @@
+# A Short History of the Internet
+
+## Origins in the Cold War
+The Internet grew out of research funded by the United States Department of Defense during the Cold War. In 1958, after the Soviet Union launched the Sputnik satellite, the US government created the Advanced Research Projects Agency (ARPA) to keep the country at the front of science and technology. One of ARPA's interests was finding better ways for researchers to share expensive computers that were located at different universities.
+
+Two important ideas came together in the 1960s. The first was packet switching, developed independently by Paul Baran at the RAND Corporation in the United States and by Donald Davies at the National Physical Laboratory in the United Kingdom. Instead of reserving a dedicated circuit for a whole conversation, as the telephone network did, packet switching breaks data into small blocks called packets. Each packet travels independently across the network and the packets are reassembled at the destination. This makes the network more efficient and more resilient, because packets can be routed around failed links. The second idea was the vision, promoted by J. C. R. Licklider, of an "intergalactic computer network" where people could interact with computers and with each other.
+
+## ARPANET
+ARPANET, the first wide-area packet-switching network, went live in 1969. On 29 October 1969, a message was sent from a computer at the University of California, Los Angeles (UCLA) to the Stanford Research Institute. The team attempted to type "LOGIN", but the system crashed after the first two letters, so the first message ever sent over ARPANET was "LO". By the end of 1969, four sites were connected: UCLA, the Stanford Research Institute, the University of California at Santa Barbara and the University of Utah. The network grew steadily during the 1970s, connecting universities and research laboratories across the United States.
+
+Electronic mail quickly became the most popular application. In 1971 Ray Tomlinson sent the first networked email and chose the @ symbol to separate the user name from the name of the host computer, a convention still used today.
+
+## TCP/IP: A Network of Networks
+As other networks appeared, including satellite and radio networks, there was a need for a common way to connect different networks together. In 1974 Vinton Cerf and Robert Kahn published a design for the Transmission Control Protocol, which later split into two layers: TCP, which ensures that data arrives completely and in the right order, and IP, the Internet Protocol, which handles addressing and routing of packets between networks. Because of this work, Cerf and Kahn are often called the fathers of the Internet.
+
+On 1 January 1983, ARPANET officially switched from its older Network Control Program to TCP/IP. This date is often considered the birth of the modern Internet, since it created a single, interoperable "network of networks". In the same year the Domain Name System (DNS) was designed by Paul Mockapetris, allowing people to use memorable names like example.com instead of numeric IP addresses. In 1985 the US National Science Foundation created NSFNET, a faster backbone network connecting supercomputing centres and universities, which gradually replaced ARPANET. ARPANET itself was decommissioned in 1990.
+
+## The World Wide Web
+The Internet and the World Wide Web are not the same thing. The Internet is the global infrastructure of connected networks, while the Web is a system of linked documents and resources that runs on top of it. The Web was invented by Tim Berners-Lee, a British scientist working at CERN, the European particle physics laboratory near Geneva. In March 1989 he wrote a proposal for an information management system based on hypertext. By the end of 1990 he had created the three core technologies of the Web: HTML (HyperText Markup Language) for writing pages, HTTP (HyperText Transfer Protocol) for transferring them, and URLs for addressing them. He also wrote the first web browser and the first web server.
+
+The Web became available to the public in 1991, and in April 1993 CERN placed the Web software in the public domain, which allowed anyone to use and build on it freely. The same year, the Mosaic browser, developed at the National Center for Supercomputing Applications at the University of Illinois, made the Web easy to use with its graphical interface and inline images. Mosaic's developers went on to create Netscape Navigator, which became the dominant browser of the mid-1990s.
+
+## Commercialisation and the Dot-Com Era
+NSFNET originally prohibited purely commercial traffic, but in 1995 it was decommissioned and the Internet backbone was handed over to commercial providers. This opened the Internet to businesses and ordinary consumers. Companies such as Amazon, founded in 1994, and eBay, founded in 1995, showed that the Web could be used for commerce. Google was founded in 1998 and transformed how people found information online. Investment in Internet companies grew rapidly in the late 1990s, leading to the dot-com bubble, which burst in 2000 and 2001 when many unprofitable companies collapsed.
+
+In India, public Internet access began on 15 August 1995, when the state-owned Videsh Sanchar Nigam Limited (VSNL) launched its Internet service.
+
+## Web 2.0, Mobile and Beyond
+In the 2000s the Web became more interactive. Blogs, Wikipedia (launched in 2001) and social networks such as Facebook (2004) and YouTube (2005) allowed users to create and share content, an era often called Web 2.0. The launch of the iPhone in 2007 and the spread of Android smartphones moved much of the Internet onto mobile devices. Cheap mobile data later brought hundreds of millions of new users online, especially in countries like India.
+
+The original Internet Protocol, IPv4, uses 32-bit addresses, which allows about 4.3 billion unique addresses, and these have effectively run out. IPv6 uses 128-bit addresses and provides an almost unlimited address space; its adoption has grown steadily. Other important trends include cloud computing, the Internet of Things, in which everyday devices connect to the network, and growing concerns about privacy, cybersecurity and the spread of misinformation.
+
+## Governance
+No single organisation owns or controls the Internet. Technical standards are developed through open processes, for example by the Internet Engineering Task Force (IETF), which publishes specifications called Requests for Comments (RFCs). The World Wide Web Consortium (W3C), founded by Tim Berners-Lee in 1994, develops web standards. The Internet Corporation for Assigned Names and Numbers (ICANN), created in 1998, coordinates the global system of domain names and IP addresses.
