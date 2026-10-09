@@ -1,0 +1,15 @@
+# Core pipeline
+pypdf>=4.0
+python-docx>=1.1
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26
+python-dotenv>=1.0
+requests>=2.31
+
+# Optional: web UI (bonus) and Anthropic provider
+streamlit>=1.35
+anthropic>=0.40
+
+# Tests
+pytest>=8.0
